@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+
+body{
+    background:linear-gradient(to right,#00c9ff 0%, #92fe9d 100%);
+    
+}
+    
+.span{
+    font-weight: lighter;
+    font-style: italic;
+}
+#submit{
+    background-color: #79a3b1;
+}
+table{
+    overflow-y: scroll;
+    overflow-x: scroll;
+    
+}
+.margin{
+    margin: 3%;
+}
+@media screen and( min-width:567px){
+    .modified{
+        width:100%
+    }
+}
+#title{
+    text-align: center;
+  }
+  #description{
+    text-align: center;
+  }
